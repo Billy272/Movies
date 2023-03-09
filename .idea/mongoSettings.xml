@@ -4,7 +4,9 @@
     <option name="serverConfigurations">
       <set>
         <ServerConfiguration>
-          <option name="label" value="Movies" />
+          <option name="authenticationDatabase" value="mongodb+srv://BIlly:diasco2002@diasco.7p3bckg.mongodb.net/?retryWrites=true&amp;w=majority" />
+          <option name="label" value="movies" />
+          <option name="password" value="diasco2002" />
           <option name="serverUrls">
             <list>
               <option value="localhost:27017" />
@@ -14,7 +16,7 @@
           <option name="sshTunnelingConfiguration">
             <SshTunnelingConfiguration />
           </option>
-          <option name="userDatabase" value="mongodb+srv://BIlly:&lt;bill2002&gt;@diasco.7p3bckg.mongodb.net/test" />
+          <option name="username" value="Billy" />
         </ServerConfiguration>
       </set>
     </option>
