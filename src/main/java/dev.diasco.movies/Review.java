@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection ="reviews")
+@Document(collection = "reviews")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -15,4 +15,3 @@ public class Review {
     private ObjectId;
     private String body;
 }
-/*TODO : Complete 30 mins of Backend programming in Java.*/
