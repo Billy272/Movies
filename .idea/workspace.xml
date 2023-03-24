@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9d0f8c7-8d88-483c-b3a9-d4fb5961a83f" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/ReviewRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/ReviewService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/.env" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679432983273</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="commit">
+      <created>1679643437916</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1679643437916</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
