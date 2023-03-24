@@ -2,6 +2,9 @@ package dev.diasco.movies;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-public interface MovieRepository extends MongoRepository<Movie,ObjectId> {
+import java.util.Optional;
 
+public interface MovieRepository extends MongoRepository<Movie,ObjectId> {
+    @Override
+    Optional<Movie> findMovieByImdbId(String imdbId);
 }

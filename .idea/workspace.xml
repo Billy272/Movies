@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9d0f8c7-8d88-483c-b3a9-d4fb5961a83f" name="Changes" comment="commit" />
+    <list default="true" id="e9d0f8c7-8d88-483c-b3a9-d4fb5961a83f" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/.env" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/.env" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
