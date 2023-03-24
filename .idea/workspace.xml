@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9d0f8c7-8d88-483c-b3a9-d4fb5961a83f" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/data/movies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dev/diasco/movies/Movie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dev/diasco/movies/MovieService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dev/diasco/movies/Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dev/diasco/movies/ReviewRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev.diasco.movies/MovieService.java" afterDir="false" />
@@ -70,6 +76,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "19",
     "last_opened_file_path": "/home/diasco/Documents/Java_Basics",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -373,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679643437916</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="commit">
+      <created>1679648364673</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1679648364673</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
