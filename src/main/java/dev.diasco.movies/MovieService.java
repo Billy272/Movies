@@ -1,6 +1,5 @@
 package dev.diasco.movies;
 
-import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -14,7 +13,7 @@ public class MovieService {
     private List<Movie> allMovies(){
         return movieRepository.findAll();
     }
-    public Optional<Movie> singleMovie(imdbId id){
+    public <imdbId> Optional<Movie> singleMovie(imdbId id, String imdbId){
 
         return movieRepository.findMovieByImdbId(imdbId);
     }
