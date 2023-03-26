@@ -2,7 +2,6 @@
     {
         ["https://image.tmdb.org/t/p/original/fnfirCEDIkxZnQEtEMMSgllm0KZ.jpg"],
         "reviewIds": []
-    },
     {
         "imdbId": "tt1630029",
         "title": "Avatar: The Way of Water",
@@ -28,6 +27,7 @@
         ],
         "reviewIds": []
     },
+
     {
         "imdbId": "tt8760708",
         "title": "M3GAN",
