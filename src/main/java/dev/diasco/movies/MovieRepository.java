@@ -5,6 +5,6 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 
 public interface MovieRepository extends MongoRepository<Movie, ObjectId> {
     // create an override method to find a movie by imdbId
-    Movie findMovieByImdbId(imdbId id);
+    Movie findMovieByImdbId(ObjectId imdbId);
 
 }
