@@ -9,7 +9,7 @@ const Trailer = () => {
 
     return(
         <div className="react-player-container">
-
+            {(key!=null)?<ReactPlayer controls="true" playing={true} url={`https://www.youtube.com/`} />}
         </div>
     )
 }
