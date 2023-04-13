@@ -3,8 +3,12 @@ import ReactPlayer from 'react-player';
 import './Trailer.css';
 
 const Trailer = () => {
+
+    const { id } = useParams();
+    let key = params.ytTrailerId;
+
     return(
-        <div className="trailer">
+        <div className="react-player-container">
 
         </div>
     )
