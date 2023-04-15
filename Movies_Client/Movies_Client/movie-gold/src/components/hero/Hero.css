@@ -35,3 +35,14 @@
     display: flex;
     align-items: center;
 }
+.movie-button-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+}
+.play-button-icon-container{
+    padding: 0px;
+    margin: 0px;
+    width: 150px;
+}
