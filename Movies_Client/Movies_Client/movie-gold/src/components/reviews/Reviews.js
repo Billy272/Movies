@@ -24,7 +24,7 @@ const Reviews = ({getMovieData,movie,reviews,setReviews}) =>{
             rev.value = "";
             setReviews(updatedReviews);
         }
-        catch(){
+        catch(error){
             console.log(err)
         }
        
